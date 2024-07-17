@@ -5,7 +5,6 @@ A Startup Agency Landing Page built with Next14, Shadcn, and Tailwind.
 
 
 # ☁️ Deployed link
-https://ppa-hiring-assignment-zeta.vercel.app/
 
 
 ## Installation
