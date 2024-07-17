@@ -11,10 +11,15 @@ cd ppa-hiring-assignment
 npm install
 Run the App:
 npm run dev
+
+
 🔓 Stack
 Next14
 Typescript
 Shadcn
 Tailwind
+
+
+
 🔓 Benefits
 Mobile Responsiveness
