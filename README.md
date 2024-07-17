@@ -13,7 +13,8 @@ https://ppa-hiring-assignment-zeta.vercel.app/
 1. Clone the Repository:
 
 ```bash
-https://github.com/Akshay-pro/ppa-hiring-assignment.git
+[https://github.com/swap775599/Assignment-website.git]
+(https://github.com/swap775599/Assignment-website)
 ```
 
 2. Clone the Repository:
